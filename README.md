@@ -14,4 +14,4 @@ Packages necessary to run the code:
 * MatPlotLib
 * Persim
 
-"LinearProgrammingCrossword.pdf" constains (no surprise) a lienar progamming themed crossword puzzle! Of course, not every clue is linear programming theme (one may be very related to my pesonal life, oof)... But hopefully it is fun to try out! I created it using Crosserville.
+"LinearProgrammingCrossword.pdf" constains (no surprise) a lienar progamming themed crossword puzzle! Of course, not every clue is linear programming themed (one may be very related to my pesonal life, oof)... But hopefully it is fun to try out! I created it using Crosserville.
