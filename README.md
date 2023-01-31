@@ -1,4 +1,4 @@
-# 510-MiniProject2
+# 1-Wassertsein Distance Between Persistence Diagrams
 This is a repository for my second mini-project in Math 510: Linear Programming, taught by Henry Adams.
 
 In this repository, you can find 2 files: "1-Wasserstein-Dist.ipynb" and "LinearProgrammingCrossword.pdf".
